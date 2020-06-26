@@ -1,0 +1,17 @@
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Achitecture.Services.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Achitecture.Services.pdb
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Achitecture.Entities.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Achitecture.ViewModel.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Architecture.Repositories.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\EntityFramework.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Achitecture.Entities.pdb
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Achitecture.Entities.dll.config
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Achitecture.ViewModel.pdb
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Architecture.Repositories.pdb
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\Tayar.Architecture.Repositories.dll.config
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\bin\Debug\EntityFramework.xml
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\obj\Debug\Tayar.Achitecture.Services.csprojAssemblyReference.cache
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\obj\Debug\Tayar.Achitecture.Services.csproj.CoreCompileInputs.cache
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\obj\Debug\Tayar.Achitecture.Services.csproj.CopyComplete
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\obj\Debug\Tayar.Achitecture.Services.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Achitecture.Services\obj\Debug\Tayar.Achitecture.Services.pdb

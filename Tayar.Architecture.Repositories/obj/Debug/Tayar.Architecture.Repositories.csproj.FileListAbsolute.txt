@@ -1,0 +1,17 @@
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\Tayar.Architecture.Repositories.dll.config
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\Tayar.Architecture.Repositories.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\Tayar.Architecture.Repositories.pdb
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\EntityFramework.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\Tayar.Achitecture.Entities.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\Tayar.Achitecture.Entities.pdb
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\Tayar.Achitecture.Entities.dll.config
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\EntityFramework.xml
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\obj\Debug\Tayar.Architecture.Repositories.csprojAssemblyReference.cache
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\obj\Debug\Tayar.Architecture.Repositories.csproj.CoreCompileInputs.cache
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\obj\Debug\Tayar.Architecture.Repositories.csproj.CopyComplete
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\obj\Debug\Tayar.Architecture.Repositories.dll
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\obj\Debug\Tayar.Architecture.Repositories.pdb
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\obj\Debug\Tayar.Architecture.Repositories.Migrations.asd.resources
+F:\Tayar_Task\Tayar.Achitecture.Presntation\Tayar.Architecture.Repositories\obj\Debug\Tayar.Architecture.Repositories.csproj.GenerateResource.cache
